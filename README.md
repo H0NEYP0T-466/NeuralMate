@@ -1,12 +1,19 @@
 # 🤖 NeuralMate
 
-[![MIT License](https://img.shields.io/github/license/H0NEYP0T-466/NeuralMate?style=flat&color=blue)](https://github.com/H0NEYP0T-466/NeuralMate/blob/main/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/H0NEYP0T-466/NeuralMate?style=flat&color=yellow)](https://github.com/H0NEYP0T-466/NeuralMate/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/H0NEYP0T-466/NeuralMate?style=flat&color=green)](https://github.com/H0NEYP0T-466/NeuralMate/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/H0NEYP0T-466/NeuralMate?style=flat&color=red)](https://github.com/H0NEYP0T-466/NeuralMate/issues)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/H0NEYP0T-466/NeuralMate/blob/main/CONTRIBUTING.md)
+![GitHub License](https://img.shields.io/github/license/H0NEYP0T-466/NeuralMate?style=for-the-badge&color=brightgreen)
+![GitHub Stars](https://img.shields.io/github/stars/H0NEYP0T-466/NeuralMate?style=for-the-badge&color=yellow)
+![GitHub Forks](https://img.shields.io/github/forks/H0NEYP0T-466/NeuralMate?style=for-the-badge&color=blue)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/H0NEYP0T-466/NeuralMate?style=for-the-badge&color=red)
 
 > 🌟 An intelligent AI-powered personal assistant that combines seamless voice recognition, context-aware memory, and conversational charm to enhance productivity and simplify daily tasks.
+
+## 🔗 Links
+
+- [🚀 Demo](https://github.com/H0NEYP0T-466/NeuralMate) 
+- [📚 Documentation](https://github.com/H0NEYP0T-466/NeuralMate/blob/main/README.md)
+- [🐛 Issues](https://github.com/H0NEYP0T-466/NeuralMate/issues)
+- [🤝 Contributing](https://github.com/H0NEYP0T-466/NeuralMate/blob/main/CONTRIBUTING.md)
 
 ## 📑 Table of Contents
 
@@ -174,30 +181,30 @@ NeuralMate/
 └── vite.config.js             # Vite build tool configuration
 ```
 
-## 🛠️ Tech Stack
+## 🛠️ Built With
 
 ### Frontend
-- **React** (v19.1.1) - Modern UI library with hooks and context
-- **Vite** (v7.1.0) - Lightning-fast build tool and dev server
-- **React Markdown** - Rich text rendering for AI responses
-- **Axios** - HTTP client for API communication
+- [**React**](https://react.dev/) (v19.1.1) - Modern UI library with hooks and context
+- [**Vite**](https://vitejs.dev/) (v7.1.0) - Lightning-fast build tool and dev server
+- [**React Markdown**](https://github.com/remarkjs/react-markdown) - Rich text rendering for AI responses
+- [**Axios**](https://axios-http.com/) - HTTP client for API communication
 - **Web Speech API** - Browser-native voice recognition
 
 ### Backend
-- **Node.js** - JavaScript runtime for server-side development
-- **Express.js** (v5.1.0) - Minimal and flexible web application framework
-- **MongoDB** - NoSQL database for scalable data storage
-- **Mongoose** (v8.17.1) - MongoDB object modeling for Node.js
+- [**Node.js**](https://nodejs.org/) - JavaScript runtime for server-side development
+- [**Express.js**](https://expressjs.com/) (v5.1.0) - Minimal and flexible web application framework
+- [**MongoDB**](https://www.mongodb.com/) - NoSQL database for scalable data storage
+- [**Mongoose**](https://mongoosejs.com/) (v8.17.1) - MongoDB object modeling for Node.js
 
 ### AI & External Services
-- **Google Gemini API** - Advanced language model for intelligent responses
+- [**Google Gemini API**](https://ai.google.dev/) - Advanced language model for intelligent responses
 - **Web Speech API** - Cross-platform speech recognition
-- **MyMemory Translation API** - Multi-language support
+- [**MyMemory Translation API**](https://mymemory.translated.net/) - Multi-language support
 
 ### Development Tools
-- **ESLint** - Code linting and quality enforcement
-- **Git** - Version control and collaboration
-- **npm** - Package management and script execution
+- [**ESLint**](https://eslint.org/) - Code linting and quality enforcement
+- [**Git**](https://git-scm.com/) - Version control and collaboration
+- [**npm**](https://www.npmjs.com/) - Package management and script execution
 
 ## 🤝 Contributing
 
@@ -312,7 +319,7 @@ We're grateful to the amazing open-source community and the following projects t
 
 <div align="center">
 
-**Built with ❤️ by the NeuralMate Team**
+**Made with ❤️ by H0NEYP0T-466**
 
 [⬆ Back to Top](#-neuralmate)
 
